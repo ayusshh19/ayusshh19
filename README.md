@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Shukla</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mlztiibi073m.i.optimole.com/rR3gR6s-zELMuqmQ/w:563/h:401/q:auto/http://blog.knowledg.co/wp-content/uploads/2020/06/naya-gif.gif">
-
+[![@ayusshh1907's Holopin board](https://holopin.me/ayusshh1907)](https://holopin.io/@ayusshh1907)
 - 🔭 I’m currently working on **Face Recognition based attendance system**
 
 - 🌱 I’m currently learning **React**
