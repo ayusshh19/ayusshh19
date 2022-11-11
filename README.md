@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://spiffy-crepe-a5d6b0.netlify.app/](https://spiffy-crepe-a5d6b0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://stunning-squirrel-64d872.netlify.app/](https://stunning-squirrel-64d872.netlify.app/)
 
 - 💬 Ask me about **React js**
 
